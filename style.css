@@ -5,10 +5,13 @@
    font-style: normal;
 }
 body {
-  background-color:#F2F2F2;
+   background-color: #F2F2F2;
   font-family:"BMJUA", sans-serif;
   color:#50C878;
 }
+.container {
+  width: 600px;
+  background-color: #f2f2f2;
 a:visited {
   font-weight:bold;
 }
